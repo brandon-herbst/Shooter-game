@@ -1,0 +1,19 @@
+#Game created by Brandon Herbst
+
+a) Kamikazee is a simple style top down shooter game, the challenge is simple, just try and shoot down as many kamikazee
+pilots as possible before you blow up,
+b) You have a shield and 3 lives.
+c) Once all your lives are up its game over!
+
+1.Please install the font in the file in order for the font to work*
+
+2.Thanks to the tutorials by: https://github.com/kidscancode i was able to write this game
+
+# Art attribute:
+Sujit Yadav
+https://opengameart.org/content/top-down-planes-sprites-pack
+
+please feel free to use/ re-use / share / copy this software
+
+3. This was an educational project 
+	
